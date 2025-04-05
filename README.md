@@ -1,8 +1,8 @@
 <h1 align="center">ASI-Project</h1>
 
-<h2 align="center">Connected Anywhere Across the Globe</h2>
+<h3 align="center">Connected Anywhere Across the Globe</h3>
 
-### Introduction
+## Introduction
 
 Autonomous Support for Information (ASI) enables users to access online information through various channels depending on their
 needs. Utilizing advanced technologies like cloud computing and machine learning, ASI autonomously retrieves and delivers relevant
@@ -15,7 +15,7 @@ The algorithm relies on internal and external sources to answer queries. Here is
   <img src="https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/df701badcfc6dafd14efdfdbd149a1b50e143c4f/assets/ASI%20Architecture.png" alt="ASI Project Architecture" width="600"/>
 </p>
 
-### Capabilities
+## Capabilities
 
 1. Core Personality: Define the personality of ASI.
 2. Specific Tasks Execution: Create personalized tasks for ASI to
@@ -32,7 +32,7 @@ Wikipedia, Claude, Gemini, and WolframAlpha.
 DynamoDB table that you can consult, modify, or erase
 anytime.
 
-### Quick Start
+## Quick Start
 
 To begin, you need to choose between three methods to access your virtual assistant:
 - POST requests: search the web with a low internet connection.
@@ -45,7 +45,7 @@ Then, you can follow the step-by-step instructions for each of them:
 - Build a chatbot accessible via SMS.
 
 
-### Comparison Of Methods
+## Comparison Of Methods
 <div align="center">
   <table>
     <tr>
