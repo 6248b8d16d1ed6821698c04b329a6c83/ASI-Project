@@ -13,6 +13,7 @@ access any information on the web with a low internet connection.
 5. [Create JSON files and get the API keys](#Create-JSON-files-and-get-the-API-keys)
 6. [Enable HTTP(S) Endpoint](#Enable-HTTP(S)-Endpoint)
 7. [Start chatting with your bot](#Start-chatting-with-your-bot)
+8. [Conclusion](#Conclusion)
 
 ## Create a Layer for Lambda Function
 
@@ -134,7 +135,9 @@ You can now set up a simple front-end tool to send POST requests to your endpoin
 
 3. Start discussing with your new bot and customize it as you wish!
 
+## Conclusion
 
+To conclude, we have learned how to build a voice bot running on AWS and accessible via POST request for free in Python. This Bot runs on AWS, enabling a high level of security and reliability at a cheap cost. Let me know if you have any feedback or ideas for improvements! 
 
 
 
