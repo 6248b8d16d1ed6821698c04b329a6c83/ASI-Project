@@ -2,6 +2,10 @@
 
 <h3 align="center">Connected Anywhere Across the Globe</h3>
 
+<p align="center">
+  <img src="https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/ef6178148852de43ce7a0f96ca962e0351b67081/assets/images/Empowering%20Access%20to%20Information.jpeg" alt="ASI Project Architecture" width="500"/>
+</p>
+
 ## Introduction
 
 Autonomous Support for Information (ASI) enables users to access online information through various channels depending on their
