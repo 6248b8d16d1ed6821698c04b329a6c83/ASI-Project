@@ -8,10 +8,7 @@
 
 ## Introduction
 
-Autonomous Support for Information (ASI) enables users to access online information through various channels depending on their
-needs. Utilizing advanced technologies like cloud computing and machine learning, ASI autonomously retrieves and delivers relevant
-data from websites, databases, and other platforms. It features intelligent data retrieval, continuous real-time updates, and
-personalized interactions through a virtual assistant using natural language processing (NLP).
+Autonomous Support for Information (ASI) is a project enabling users to access online information through various channels depending on their needs. Using cloud computing, AI language models, and various other technologies, ASI autonomously retrieves and delivers relevant data from websites, databases, and other platforms. It features intelligent data retrieval, continuous real-time updates, and personalized interactions through a virtual assistant using natural language processing (NLP).
 
 The algorithm relies on internal and external sources to answer queries. Here is a simplified diagram representing ASI architecture:
 
