@@ -14,4 +14,6 @@ In this part, we will create a Layer containing all libraries used in our Lambda
 3. Click on “Create bucket”.
 4. Choose “asi-project-functions” under “Bucket name”.
 5. Click “Create bucket” at the bottom of the page.
-6. Download the 2 zip file below. If the file unzips automatically while downloading, make sure to compress it again.
+6. Download the 2 zip files below. If the file unzips automatically while downloading, make sure to compress it again.
+  - [ASI Lambda Layer Library Python 3.9 Part 1](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/1ae454ba9b29b7b619947df3331535cd8d09226d/data/layer/asi_lambda_layer_library_python_3_9_part_1.zip)
+  - [asi_lambda_layer_library_python_3_9_part_2.zip](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/1ae454ba9b29b7b619947df3331535cd8d09226d/data/layer/asi_lambda_layer_library_python_3_9_part_2.zip)
