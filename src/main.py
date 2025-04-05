@@ -316,6 +316,7 @@ def get_weather_data(location='', hour=2):
         time_formated = time_in_2.strftime("%Y-%m-%dT%H:00:00Z")
         time_details = f"in {hour} hours"
     cmd_measures = f"Using the following data that you will convert to France standard, generate a short text in english presenting the weather in {location[2]} {time_details} ({time_formated}) adding a cheerful recommendation: "
+    
     def get_measure_from_xml(xml_string):
         # Find the start and end of the measure value in the XML string
         start_tag = "<gml:tupleList>"
