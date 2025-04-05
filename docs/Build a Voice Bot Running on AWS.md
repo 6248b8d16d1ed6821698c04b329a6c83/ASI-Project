@@ -6,7 +6,7 @@ Siri or Cortana. The algorithm will be running on Amazon Web Services (AWS), ena
 access any information on the web with a low internet connection. You can also explore the
 detailed steps to get more details information on each step.
 
-### Create a Layer for Lambda Function
+## Create a Layer for Lambda Function
 
 In this part, we will create a Layer containing all libraries used in our Lambda function. We will proceed with the following steps:
 1. Create a free account on AWS.
