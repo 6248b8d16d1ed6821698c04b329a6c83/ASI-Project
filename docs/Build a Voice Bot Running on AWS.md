@@ -116,9 +116,23 @@ The last step to build a Chatbot running on AWS is to enable the HTTP(S) endpoin
 
 ## Start chatting with your bot
 
-You can now set up 
+You can now set up a simple front-end tool to send POST requests to your endpoint. For example, an iPhone user can use the Shortcuts app. Here is how to proceed:
 
+1. Open the Shortcuts app on your iPhone.
+2. Reproduce the steps below for:
+  - Chatbot
 
+<p align="center">
+  <img src="https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/9042f68aa2f2a21501fde7091fa8053ef4542faa/assets/images/Shortcuts%20iPhone%20Chat%20Bot.png" alt="ASI Project Architecture" width="500"/>
+</p>
+       
+  - Voicebot
+
+<p align="center">
+  <img src="https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/9042f68aa2f2a21501fde7091fa8053ef4542faa/assets/images/Shortcuts%20iPhone%20Voice%20Bot.png" alt="ASI Project Architecture" width="500"/>
+</p>
+
+3. Start discussing with your new bot and customize it as you wish!
 
 
 
