@@ -70,7 +70,7 @@ def lambda_handler(event, context):
         'body': json.dumps('Hello from Lambda!')
     }
 ```
-7. Paste instead the main Python script available on this page: [ASI Script](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/d9b55be171fb03e27df7b9d19242394b6adc7320/src/main.py).
+7. Paste instead the main Python script available on this page: [ASI Script](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/d9b55be171fb03e27df7b9d19242394b6adc7320/src/main.py). Make sure to replace the POST request with the Telegram part at the end of the script.
 8. Click on “Deploy”.
 9. Click “Add a Layer” in the “Layers” category at the bottom of the page.
 10. Choose “Custom Layers”.
