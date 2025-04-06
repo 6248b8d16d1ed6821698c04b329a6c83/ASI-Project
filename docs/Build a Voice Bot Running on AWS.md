@@ -102,11 +102,12 @@ In this part, we will allow our Lambda Function to access our Amazon S3 files. W
 In this part, we will create two JSON files containing our secret keys and parameters. We will proceed with the following steps:
 1. To begin, download the following [config_params.json](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/5a51bea404ddadf7a96d8f7cd8b09fee1d2d0010/config/config_params.json) and [config_credentials.json](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/5a51bea404ddadf7a96d8f7cd8b09fee1d2d0010/config/credentials/config_credentials.json) files.
 2. Get a free WolframAlpha API key, ChatGPT API key, Gemini, Google Maps, and other services you wish to access and add them to the JSON instead of ######.
-3. If you wish to use Telegram, add your Telegram ID or phone number in the JSON instead of ######;
-4. Go to Amazon S3.
-5. Click on the “asi-project-functions” bucket, “Upload” and, “Add files”.
-6. Select “config_params.json” and “config_credentials.json”.
-7. Click on upload.
+3. If you wish to use Telegram, add your Telegram ID in the JSON instead of ######.
+4. Add your phone number in "sms_user" and replace “+” with “%2B” in the json instead of “#####”. Your phone number should look like this: “%2B33612345678”.
+5. Go to Amazon S3.
+6. Click on the “asi-project-functions” bucket, “Upload” and, “Add files”.
+7. Select “config_params.json” and “config_credentials.json”.
+8. Click on upload.
 
 ## Enable HTTP(S) Endpoint
 
