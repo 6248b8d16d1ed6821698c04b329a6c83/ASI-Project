@@ -184,7 +184,7 @@ proceed with the following steps:
 
 1. Complete the Telegram Webhook URL. To proceed, replace [telegram-token] in the
 following URL: https://api.telegram.org/bot[telegram-token]/setwebhook. We saved the
-token in step 7 of the category “Setup telegram bot”. The result should look like this: https://api.telegram.org/bot8753086164:BBEeIJEAGRtN_K3lZIJHppNAUVdWqBUCIKI/setwebhook
+token in step 7 of the category “Setup telegram bot”. The result should look like this: https://api.telegram.org/bot9876543219:HGFePOIUYTtP_K3lDFGHppRTYUdWqHGFDRT/setwebhook
 2. We will set up the webhook using Postman. To begin, download the Postman app and sign
 up for free.
 3. In the dropdown list, choose “POST”.
