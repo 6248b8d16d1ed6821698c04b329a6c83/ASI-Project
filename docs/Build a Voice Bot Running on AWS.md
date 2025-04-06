@@ -26,6 +26,7 @@ In this part, we will create a Layer containing all libraries used in our Lambda
 6. Download the 2 zip files below. If the file unzips automatically while downloading, compress it again.
   - [ASI Lambda Layer Library Python 3.9 Part 1](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/1ae454ba9b29b7b619947df3331535cd8d09226d/data/layer/asi_lambda_layer_library_python_3_9_part_1.zip)
   - [ASI Lambda Layer Library Python 3.9 Part 2](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/1ae454ba9b29b7b619947df3331535cd8d09226d/data/layer/asi_lambda_layer_library_python_3_9_part_2.zip)
+  - Optional: You can create your personalized zip file by learning [How To Import Python Libraries In AWS Lambda](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/b3ed7c57731d5ef59162c127a0e99006c97cdd25/docs/Import%20Python%20Libraries%20In%20AWS%20Lambda.md).
 7. Back in your S3 Bucket, click “Upload” and select both zip files.
 8. Follow the steps to upload the zip file.
 9. Select the “full-library-python.zip” file and click “Copy URL”.
