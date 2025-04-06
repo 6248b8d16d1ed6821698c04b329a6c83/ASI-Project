@@ -133,7 +133,12 @@ You can now set up a simple front-end tool to send POST requests to your endpoin
   <img src="https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/9042f68aa2f2a21501fde7091fa8053ef4542faa/assets/images/Shortcuts%20iPhone%20Voice%20Bot.png" alt="ASI Project Architecture" width="500"/>
 </p>
 
-3. Start discussing with your new bot and customize it as you wish!
+3. In the “Get Contents of URL” cell, add your AWS Lambda “Function URL” that you saved
+in the last step of “Enable HTTP(S) Endpoint”, your Telegram ID or phone number that you entered in step 3 of “Create JSON files and get the API keys” and your first name.
+
+4. Start discussing with your new bot and customize it as you wish!
+
+Bonus: Create quick access to your virtual assistant from the lock screen. When customizing your wallpaper, choose “Lock Screen” and click on the rectangle below the time. Look for the Shortcuts app in the list, add it, and select your new shortcut. You can now talk to ASI directly from your lock screen!
 
 ## Conclusion
 
