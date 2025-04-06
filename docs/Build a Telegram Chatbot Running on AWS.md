@@ -195,10 +195,17 @@ API Gateway on AWS” under “VALUE”.
 6. Click on “Send”.
 7. The result should look like the screenshot below
 
-
+<p align="center">
+  <img src="https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/34d2a53ec9df180e7912a087f742414a2fe1f88e/assets/images/Postman%20Webhook.png" alt="ASI Project Architecture" width="600"/>
+</p>
 
 8. The webhook is now set up. We can close Postman.
 9. Our Telegram Bot should now be answering our messages.
+
+<p align="center">
+  <img src="https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/0a73f0716f15ee1aa3b33371e1885e2d82d95aff/assets/images/Phone%20Asi%20Demo.png" alt="ASI Project Architecture" width="300"/>
+</p>
+
 
 ## Conclusion
 In this article, we have learned how to build a Telegram Chatbot running on AWS for free. This
