@@ -43,7 +43,7 @@ To begin, you need to choose between three methods to access your virtual assist
 Then, you can follow the step-by-step instructions for each of them:
 - [Build a voice bot accessible via POST Method](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/98af5bfc1d21ca39b53dd55bd87bff93dbd252a2/docs/Build%20a%20Voice%20Bot%20Running%20on%20AWS.md)
 - [Build a chatbot accessible via Telegram](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/6fb81d960d7d3f198bcd9c8645fc42195312df28/docs/Build%20a%20Telegram%20Chatbot%20Running%20on%20AWS.md)
-- [Build a chatbot accessible via SMS](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/6fb81d960d7d3f198bcd9c8645fc42195312df28/docs/Build%20an%20SMS%20chatbot%20Running%20on%20AWS.md#Bonus-Use-SMS-Notification-for-Outbound-Message)
+- [Build a chatbot accessible via SMS](https://github.com/6248b8d16d1ed6821698c04b329a6c83/ASI-Project/blob/6fb81d960d7d3f198bcd9c8645fc42195312df28/docs/Build%20an%20SMS%20chatbot%20Running%20on%20AWS.md)
 
 
 ## Comparison Of Methods
