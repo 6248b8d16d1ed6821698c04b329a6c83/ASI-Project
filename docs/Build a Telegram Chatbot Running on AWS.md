@@ -172,7 +172,7 @@ In this part, we will connect our Telegram bot to AWS using API Gateway. We will
 12. Click “Create”.
 13. Save the API's URL shown under “Invoke URL”.
 14. Add your bot name at the end of the API's URL, separated with an “/” as shown in the
-“Develop” -> “Routes” category. The full URL should look like this: https://sl5ssr93v1.executeapi.
+“Develop” -> “Routes” category. The full URL should look like this: https://AB5UYT67F1.executeapi.
 us-west-2.amazonaws.com/asi-bot-test.
 15. Save the full URL. We will need it later.
 
